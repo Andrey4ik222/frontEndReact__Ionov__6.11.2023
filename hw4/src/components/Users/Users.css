@@ -1,0 +1,36 @@
+/* Users.css */
+
+.loading-message {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user {
+  margin-top: 20px;
+}
+
+.user-list {
+  list-style: none;
+  padding: 0;
+}
+
+.user-item {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.user-item__name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user-item__username,
+.user-item__email,
+.user-item__website {
+  font-size: 14px;
+  color: #555;
+}

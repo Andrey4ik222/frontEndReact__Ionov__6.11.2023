@@ -1,0 +1,38 @@
+.user {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.user-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-item__name {
+  margin: 0;
+}
+
+.user-item__info {
+  margin: 0;
+}
+
+.user-item__info a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+
+.user-item__info a:hover {
+  color: #2980b9;
+}

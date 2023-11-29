@@ -1,0 +1,14 @@
+header {
+  background: #333;
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+}
+
+.main-link {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}

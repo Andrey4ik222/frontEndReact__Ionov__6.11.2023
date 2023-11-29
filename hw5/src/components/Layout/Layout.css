@@ -1,0 +1,21 @@
+div {
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 20px;
+}
+
+.button-auth {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.button-auth:hover {
+  background-color: #2980b9;
+}

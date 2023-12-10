@@ -1,0 +1,45 @@
+.counter-wrapper {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .counter-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    filter: brightness(90%);
+  }
+  
+  .button-increment {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .button-decrement {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .button-reset {
+    background-color: #007bff;
+    color: #fff;
+  }
+  

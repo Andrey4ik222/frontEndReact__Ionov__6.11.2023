@@ -3,7 +3,7 @@ import "./DisplayPosts.css";
 
 const DisplayPosts = () => {
   const postsUrl = "https://jsonplaceholder.typicode.com/posts";
-  const [data, error, isloading, refetch] = UseFetch(postsUrl);
+  const { data, error, isloading, refetch } = UseFetch(postsUrl);
 
   return (
     <div className="posts">

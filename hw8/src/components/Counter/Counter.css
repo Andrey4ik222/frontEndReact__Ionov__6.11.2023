@@ -1,0 +1,23 @@
+.counter-wrapper {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .counter-title {
+    font-size: 24px;
+  }
+  
+  .counter-input {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .counter-button__input,
+  .counter-button__increment,
+  .counter-button__decrement,
+  .counter-button__reset {
+    margin: 5px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
